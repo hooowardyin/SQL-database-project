@@ -1,0 +1,67 @@
+ card {
+    width: 300px;
+    padding: 1px;
+    border-radius: 20px;
+    background: #fff;
+    border: none;
+    height: 300px;
+    position: relative;
+    margin: auto;
+  }
+  
+  .container {
+    height: 100vh;
+  }
+  
+  body {
+    background: #eee;
+    text-align: center;
+  }
+
+  table {
+    border: 1px solid rgba(232, 235, 237, 0.827);
+    border-collapse: collapse;
+    margin:auto;
+  }
+
+  thead {
+    background-color: rgb(169, 165, 165);
+    color: black;
+  }
+
+  tbody {
+    color: black;
+    
+  }
+
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  text {
+    color: #8c6037e7;
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+
+  }
+  
+  .form-control {
+    margin-right: 12px;
+  }
+  
+  .form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #ff8880;
+    outline: 0;
+    box-shadow: none;
+  }
+  
+  .cursor {
+    cursor: pointer;
+  }
+
+  
